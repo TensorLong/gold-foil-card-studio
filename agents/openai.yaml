@@ -1,0 +1,4 @@
+interface:
+  display_name: "烫金闪卡工作室"
+  short_description: "制作全金或局部烫金闪卡，让主体、纹样、边框和文字随转卡呈现扫光与辉光"
+  default_prompt: "使用 $gold-foil-card-studio 把我的参考图制作成烫金闪卡，交付可编辑 Blender 工程和正面、左右倾斜渲染。"

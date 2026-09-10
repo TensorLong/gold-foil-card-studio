@@ -1,0 +1,21 @@
+{
+  "title": "你的烫金典藏卡",
+  "assets": {
+    "artwork": "assets/artwork.png",
+    "lineart": "assets/lineart.png"
+  },
+  "gold": {
+    "color": [1.0, 0.72, 0.22],
+    "emission": 8.0,
+    "mappingRotation": [0.0, 0.0, 32.0],
+    "phase": 0.0,
+    "repeat": 6.0,
+    "noiseScale": 600.0,
+    "noiseAmount": -0.2,
+    "sweepBlack": 0.5,
+    "sweepWhite": 0.82,
+    "lineBlack": 0.08,
+    "lineWhite": 0.35
+  },
+  "render": {"width": 720, "samples": 32}
+}
